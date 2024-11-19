@@ -1,6 +1,10 @@
 # Color4
 Make your command line application more vivid by giving its `colors`, `styles`, `underscores`, and more! Just as easy as using a `std::cout`.
 
+# What is it like?
+![image](https://github.com/user-attachments/assets/de7bb322-ef7a-4ed4-9fac-7866fa1b7fbb)
+
+
 # All headers with plenty of presets
 All headers, use it as easy as `#include<iostream>`. Presets headers contain more than 1000 lines! Here's a snapshot.
 ```cpp
