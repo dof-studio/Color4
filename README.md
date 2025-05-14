@@ -38,7 +38,7 @@ All headers, use it as easy as `#include<iostream>`. Presets headers contain mor
 
     std::cout << red<char> << "Red is for Roster" << reset<char> << std::endl;
     std::cout << green<char> << "Green is for Garage" << reset<char> << std::endl;
-    std::cout << blue<char> << "Blue is for Bible ~ Oh, Jesus gush!" << reset<char> << std::endl;
+    std::cout << blue<char> << "Blue is for Bible ~ Oh, Jesus gosh!" << reset<char> << std::endl;
 ```
 
 
